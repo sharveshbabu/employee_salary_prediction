@@ -2,7 +2,7 @@
 **ML Workflow using Google Colab & Streamlit**
   This repository contains two Google Colab notebooks that demonstrate a complete machine learning workflow—from data preprocessing to deploying a Streamlit web application for predicting employee salaries.
 
-**Contents**
+**Contents:**
 **Notebook 1: Employee_Salary_Models_Comp.ipynb**
 This notebook covers the full machine learning pipeline:
 **Data Preprocessing:**
